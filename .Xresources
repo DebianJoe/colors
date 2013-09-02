@@ -1,1 +1,57 @@
-.Xresources
+#include "/home/dkeg/.colors/slob3"
+
+Xft.dpi: 96:unscaled
+Xft.autohint: 0
+Xft.hinting: true
+Xft.hintstyle: hintslight 
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault
+Xft.antialias: 1
+
+Xcursor*theme: handhelds 
+
+XTerm*cutNewline: true
+XTerm*selectToClipboard: true
+
+*.font: 	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
+*.boldFont:	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
+
+*allowBoldFonts: false
+
+*.lineSpace:1
+
+URxvt.perl-ext-common:  default,matcher
+URxvt*urlLauncher:/usr/bin/uzbl-tabbed 
+URxvt*matcher.button:1 
+Urxvt*matcher.pattern: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+URxvt.mapAlert: true
+*.colorBD:  #7d7875
+*.colorIT:  #7d7875 
+
+URxvt.selection.pattern-0: ([[:word:]]+)
+URxvt*secondaryscroll:  true
+URxvt*scrollTtyOutput: 1 
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+URxvt*dynamicColors:    on
+URxvt*depth:            24
+
+*.borderless:	true 
+*.geometry: 92x16 
+
+Urxvt*termName:     rxvt-unicode-256color
+*allow_bold:   false 
+*.scrollBar: false
+
+!*.cursorColor:      #cc7511	
+*.cursorColor:      #bf3f34	
+!*.hightlightSection: 	true	
+*.highlightColor:	#1a1a1a
+*.highlightTextColor: #bf3f34
+!*.trimSelection: 1 
+*.scrollLines: 500
