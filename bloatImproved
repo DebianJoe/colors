@@ -1,0 +1,26 @@
+!!!!!!!!!!!!!!!!!!!!!!!
+!BLOAT IMPROVED 
+!!!!!!!!!!!!!!!!!!!!!!!
+
+URxvt*color0:      #000000
+URxvt*color1:		#d7d7d7
+URxvt*color2:      #A6BBA7
+URxvt*color3:      #345C2D
+URxvt*color4:		#7d7875
+!!URxvt*color5:      #91ba0d
+!URxvt*color5:      #963c59
+!MAGENTA
+*color5:               #969696
+URxvt*color6:      #83ACA7
+URxvt*color7:     #444444
+!URxvt*color7:     #C2C7CB
+URxvt*color8:		#537391
+URxvt*color9:     #d7d7d7 
+!URxvt*color9:      #888888
+URxvt*color10:     #B0D1AF
+URxvt*color11:     #fff796
+URxvt*color12:		#7d7875
+URxvt*color13:     #215578
+!URxvt*color13:     #cf9ebe
+URxvt*color14:     #B0CFCF
+URxvt*color15:     #444444
