@@ -1,11 +1,9 @@
 !!!! readamidst !!!!
 
-!*background:      [90]#170F0D
 *background:       #170F0D
 *foreground:       #746C48
 
 *transparent:      0	
-!*tinting:        #170f0d
 *shading:	       70 	
 *fading:		10
 *fadeColor:	#170F0D
@@ -33,7 +31,3 @@
 
 *color7:           #9DBDBD
 *color15:          #E7EAE9
-
-aterm*shading:90 
-aterm*fading: 100
-aterm*transparent:true

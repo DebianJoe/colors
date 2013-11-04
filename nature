@@ -1,11 +1,9 @@
 !!!! Gslob nature-suede !!!!
 
-!*background:      [90]#170F0D
 *background:       #170F0D
 *foreground:       #746C48
 
 *transparent:      0	
-!*tinting:        #170f0d
 *shading:	       70 	
 *fading:		10
 *fadeColor:	#170F0D
@@ -33,7 +31,3 @@
 
 *color7:           #C8B55B
 *color15:          #E4DC8C
-
-aterm*shading:90 
-aterm*fading: 100
-aterm*transparent:true

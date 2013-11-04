@@ -1,11 +1,9 @@
 !!!! wagon !!!!
 
-!*background:      [90]#170F0D
 *background:       #170F0D
 *foreground:       #746C48
 
 *transparent:      0	
-!*tinting:        #170f0d
 *shading:	       70 	
 *fading:		10
 *fadeColor:	#170F0D
@@ -26,7 +24,3 @@
 *color13: #E3AE98
 *color14: #E4CAAE
 *color15: #E9D5CC
-
-aterm*shading:90 
-aterm*fading: 100
-aterm*transparent:true

@@ -1,6 +1,5 @@
 !!!! automnfence !!!!
 
-!*background:      [90]#170F0D
 *background:       #170F0D
 *foreground:       #746C48
 
@@ -33,7 +32,3 @@
 
 *color7:           #CD9561
 *color15:          #CFBDA4
-
-aterm*shading:90 
-aterm*fading: 100
-aterm*transparent:true
