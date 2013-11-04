@@ -1,0 +1,32 @@
+!!!! oxide !!!!
+
+!*background:      [90]#170F0D
+*background:       #170F0D
+*foreground:       #746C48
+
+*transparent:      0	
+!*tinting:        #170f0d
+*shading:	       70 	
+*fading:		10
+*fadeColor:	#170F0D
+
+*color0: #040203
+*color1: #29160D
+*color2: #34281E
+*color3: #3F3B42
+*color4: #4C3425
+*color5: #634B35
+*color6: #705C4A
+*color7: #895E3A
+*color8: #917256
+*color9: #AC8E6D
+*color10: #CB9D72
+*color11: #CEBE9C
+*color12: #CEAC79
+*color13: #D3BA93
+*color14: #DEC17B
+*color15: #E0B78D
+
+aterm*shading:90 
+aterm*fading: 100
+aterm*transparent:true

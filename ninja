@@ -7,13 +7,16 @@
 !*fadeColor:	#cdcdbb
 
 !! dark bg / lighter fg !!
-URxvt*background:       [85]#151515
+!*background:       [85]#170f0d
+!URxvt*background:       [85]#151515
+URxvt*background:       [85]#252525
 !URxvt*background:       [85]#1d1d1d
-Rxvt*foreground:      [75]#d3d3d3
-URxvt*.fadeColor:	#1d1d1d
+URxvt*foreground:      [75]#7d7875
+!URxvt*foreground:      [75]#d3d3d3
+!URxvt*.fadeColor:	#1d1d1d
 
-URxvt*transparent: 0 	
-URxvt*shading:	       20	
+URxvt*transparent: 1 	
+URxvt*shading:	    70   	
 URxvt*fading:		30
 
 ! Black + DarkGrey

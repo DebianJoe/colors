@@ -1,4 +1,4 @@
-#include "/home/dkeg/.colors/slob3"
+#include "/home/dkeg/.colors/colin"
 
 Xft.dpi: 96:unscaled
 Xft.autohint: 0
@@ -13,8 +13,8 @@ Xcursor*theme: handhelds
 XTerm*cutNewline: true
 XTerm*selectToClipboard: true
 
-*.font: 	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
-*.boldFont:	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
+!*.font: 	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
+!*.boldFont:	-*-terminus-medium-*-*-*-12-*-*-*-*-*-*-*
 
 *allowBoldFonts: false
 
